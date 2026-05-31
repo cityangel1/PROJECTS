@@ -15,8 +15,8 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ficha.git
-cd ficha
+git clone https://github.com/cityangel1/PROJECTS.git
+cd PROJECTS/ficha_SteganographyTool
 
 # Install dependencies
 pip3 install -r requirements.txt
